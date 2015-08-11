@@ -101,6 +101,12 @@ hr {
     float: none;
     margin: 0 auto 0;
 }
+/* customized */
+.img-right {
+    
+    float: right;
+    margin: 0 auto 0;
+}
 
 footer {
     background: #fff;
